@@ -38,8 +38,8 @@ Instructions
 •	Upload student-management-system folder to the your root folder.
 •	Edit this file.  (controller/config.php)
 $servername = "localhost";
-$username   = "root";
-$password   = "";
+$username   = "mani";
+$password   = "mani@131149";
 $dbname     = "std_db";
 •	Give your server user name, password and database name.
 
