@@ -35,7 +35,7 @@ Requirements
 •	Text Editor Software
 Instructions
 •	Create new database on the PHPMyAdmin and give any name. Then import the std_db.sql.
-•	Upload std1 folder to the your root folder.
+•	Upload student-management-system folder to the your root folder.
 •	Edit this file.  (controller/config.php)
 $servername = "localhost";
 $username   = "root";
