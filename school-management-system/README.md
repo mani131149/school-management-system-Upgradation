@@ -443,3 +443,116 @@ My Friends
 5.	view/conversation_history_student1.php
 6.	model/confirm_msg_read.php
 7.	view/unread_msg.php
+
+Alerts
+Classroom
+	Insert
+1.	classroom_Duplicated  
+2.	insert_Success
+3.	connection_Problem
+Update
+1.	update_Success
+2.	connection_Problem
+3.	update_error1
+4.	classroom_Duplicated
+Delete
+1.	delete_Success
+2.	connection_Problem
+
+Grade
+	Insert
+1.	grade_Duplicated  
+2.	insert_Success
+3.	connection_Problem
+Update
+1.	update_Success
+2.	connection_Problem
+3.	update_error1
+4.	grade_Duplicated
+Delete
+1.	delete_Success
+2.	connection_Problem
+
+
+
+Subject
+	Insert
+1.	subject_Duplicated  
+2.	insert_Success
+3.	connection_Problem
+Update
+1.	update_Success
+2.	connection_Problem
+3.	update_error1
+4.	subject_Duplicated
+Delete
+1.	delete_Success
+2.	connection_Problem
+
+Subject Routing
+	Insert
+1.	duplicate_Record1
+2.	insert_Success
+3.	connection_Problem
+Update
+1.	update_Success
+2.	connection_Problem
+3.	update_error1
+4.	duplicate_Record1
+Delete
+1.	delete_Success
+2.	connection_Problem
+
+
+
+
+
+Teacher
+	Insert
+1.	index_Duplicated
+2.	insert_Success
+3.	connection_Problem
+4.	index_email_Duplicated
+5.	email_Duplicated
+6.	upload_error1
+Update
+1.	update_Success
+2.	connection_Problem
+3.	upload_error1
+4.	update_error1
+5.	email_Duplicated
+Delete
+1.	delete_Success
+2.	connection_Problem
+Student
+	Insert
+1.	index_Duplicated
+2.	insert_Success
+3.	connection_Problem
+4.	index_email_Duplicated
+5.	email_Duplicated
+6.	upload_error1
+All Student
+Update
+1.	update_Success
+2.	connection_Problem
+3.	upload_error1
+4.	update_error1
+5.	email_Duplicated
+Delete
+1.	delete_Success
+2.	connection_Problem
+Timetable
+	Insert
+1.	duplicate_Record2
+2.	insert_Success
+3.	connection_Problem
+Update
+1.	update_Success
+2.	connection_Problem
+3.	update_error1
+4.	duplicate_Record2
+Delete
+1.	delete_Success
+2.	connection_Problem
+
