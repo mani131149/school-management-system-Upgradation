@@ -40,7 +40,7 @@ Instructions
 $servername = "localhost";
 $username   = "mani";
 $password   = "mani@131149";
-$dbname     = "std_db";
+$dbname     = "std1";
 •	Give your server user name, password and database name.
 
 All Files 
